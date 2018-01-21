@@ -1,0 +1,64 @@
+ <div class="heading-section__nav flex-container container">
+            <div class="heading-section__nav__logo flex-block">
+                <img src="img/header/logo.gif" alt="">
+            </div>
+            <div class="heading-section__nav__menu flex-block">
+                <ul class="flex-container">
+                    <li class="flex-block"><a href="#">Home</a></li>
+                    <li class="flex-block"><a href="#">Pages</a></li>
+                    <li class="flex-block"><a href="#">Features</a></li>
+                    <li class="flex-block"><a href="#">Extensions</a></li>
+                    <li class="flex-block"><a href="#">Tutorials</a></li>
+                    <li class="flex-block"><a href="#">Contact</a></li>
+                </ul>
+            </div>
+            <div class="heading-section__nav__social flex-block">
+                <ul class="">
+                    <li class="flex-block"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                    <li class="flex-block"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                    <li class="flex-block"><a href="#"><i class="fa fa-skype" aria-hidden="true"></i></a></li>
+                    <li class="flex-block"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+
+                </ul>
+            </div>
+        </div>
+
+        </div>
+
+
+        <div class="heading-section__content">
+            <div class="container">
+                <div class="heading-section__content__title tac">
+                    <h1>creative</h1>
+                    <p>Power by PSDfreebies.com</p>
+                </div>
+
+            </div>
+        </div>
+        </div>
+    </header>
+
+
+
+
+     .heading-section__content {
+        padding-top: 275px;
+        padding-bottom: 325px;
+        .heading-section__content__title {
+            h1 {
+                text-transform: uppercase;
+                color: white;
+                font-size: 152.5px;
+                font-family: gotb;
+                margin: 0;
+                line-height: 1;
+            }
+            p {
+                margin: 0;
+                padding: 0;
+                font-size: 25px;
+                color: #11749e;
+                text-transform: uppercase;
+                font-family: gotbook;
+                letter-spacing: 10px;
+            }
